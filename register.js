@@ -11,4 +11,14 @@ ds f
 debuggerfd
  d
  FileSystemdfdf
- 
+
+ dfg
+ d
+ WebGLRenderbufferg
+ dfg
+ d
+ DocumentFragmentdfg
+ df
+ getComputedStylefg
+ dfg
+ df
